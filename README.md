@@ -6,6 +6,12 @@
 AI & Cybersecurity | Machine Learning | Mobile App Development
 </h3>
 
+<p align="left">
+  <a href="https://iq.linkedin.com/in/blnd-kamaran-a83607272">
+    <img src="https://img.shields.io/badge/LinkedIn-Blnd%20Kamaran-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
 Computer Science graduate building practical solutions with **Python, Machine Learning, Cybersecurity tools, and Flutter mobile apps**.
 
 ---
